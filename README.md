@@ -8,7 +8,7 @@
 
 ## Description
 
-E-commerce Backend is a server-side application and database that listens to various HTTP requests to perform `CRUD` operations in a `MySQL` database via the Sequlize `ORM`. 
+E-commerce Backend is a server-side application and database that listens to various HTTP requests to perform `CRUD` operations in a `MySQL` database via the Sequelize `ORM`. 
 
 In creating this project, I learned a lot about creating Models using the Sequelize ORM and using those models via routes to perform CRUD operations in a database. I also learned about complex associations, such as one-to-one, one-to-many, many-to-many.
 
