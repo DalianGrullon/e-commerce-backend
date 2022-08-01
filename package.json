@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "E-commerce Backend is a server-side application and database that listens to various HTTP requests to perform CRUD operations in a MySQL database via the Sequlize ORM. ",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dalian Grullon",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
